@@ -1,0 +1,24 @@
+# Airflow
+logs/
+__pycache__/
+*.pyc
+*.pyo
+.airflow_db_initialized
+airflow-webserver.pid
+
+# Environment
+.env.local
+.env.production
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Docker
+.docker/
