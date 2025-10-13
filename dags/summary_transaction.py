@@ -77,7 +77,7 @@ def load_data(ti):
 
 
 default_args = {
-    'owner' : 'rickichann',
+    'owner' : 'Amar',
     'start_date': datetime(2023,1,1),
     'retries': 1
 }
