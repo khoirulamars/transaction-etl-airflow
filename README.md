@@ -1,6 +1,6 @@
 # ETL Project dengan Apache Airflow
 
-Project ETL (Extract, Transform, Load) menggunakan Apache Airflow yang dijalankan dengan Docker Compose.
+Project ETL (Extract, Transform, Load) menggunakan Apache Airflow yang dijalankan dengan Docker Compose
 
 ## Struktur Project
 
